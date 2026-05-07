@@ -1,0 +1,19 @@
+{
+  "name": "animation-clip-name-duration-checker",
+  "title": "Animation Clip命名・尺検品",
+  "domain": "AssetPipeline",
+  "kind": "asset-pipeline",
+  "host": null,
+  "field": "Animation Clip検品",
+  "audience": "Unity/Blender間でAnimation Clipを整理する制作者",
+  "workflow": "Clip名、尺、ループ設定、用途、基準との差分を確認し、インポート前の戻しを減らす。",
+  "requiredFields": [
+    "clipName",
+    "durationSec",
+    "loopMode",
+    "usage"
+  ],
+  "warningField": "durationOutOfRange",
+  "warningMessage": "想定尺から外れているためレビューが必要です。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}

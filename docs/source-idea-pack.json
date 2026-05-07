@@ -1,0 +1,32 @@
+{
+  "pickupRank": 54,
+  "domain": "AssetPipeline",
+  "ideaNo": 4,
+  "idea": "Animation Clip命名・尺検品",
+  "repository": "animation-clip-name-duration-checker",
+  "publish": "GitHub Release / BOOTH",
+  "createdIdeaFolder": "D:/AI/AssetPipeline/created_idea_004_animation-clip-name-duration-checker",
+  "zipFile": "D:/AI/AssetPipeline/created_idea_004_animation-clip-name-duration-checker/idea_004_animation-clip-name-duration-checker.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "animation-clip-name-duration-checker",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/AssetPipeline/Design.md",
+    "D:/AI/IDEAS/AssetPipeline/Architecture.md",
+    "D:/AI/IDEAS/AssetPipeline/AGENTS.md",
+    "D:/AI/IDEAS/AssetPipeline/SKILL.md",
+    "D:/AI/AssetPipeline/AGENTS.md",
+    "D:/AI/AssetPipeline/SKILL.md"
+  ],
+  "hostInference": null
+}
