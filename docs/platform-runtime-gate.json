@@ -1,0 +1,11 @@
+{
+  "product": "animation-clip-name-duration-checker",
+  "title": "Animation Clip命名・尺検品",
+  "domain": "AssetPipeline",
+  "ideaNo": 4,
+  "platformType": "cli-release-tool",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
